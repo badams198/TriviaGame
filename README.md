@@ -1,1 +1,1 @@
-# TriviaGame
+# javscript2 quiz game
